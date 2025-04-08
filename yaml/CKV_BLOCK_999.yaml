@@ -3,7 +3,6 @@ metadata:
   name: "Block all supported resource types"
   severity: "medium"
   category: "general"
-  id: "BROC-51"
 scope:
   provider: "aws"
 
